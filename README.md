@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhb_kcd35YM2kjtFYGmXCyB7_27rdvzJPS7u2H1-EWKMTVAVLb5IoAxaGw8DtJ5VcRwI&usqp=CAU)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEBL9EaPfppWA/profile-displaybackgroundimage-shrink_350_1400/0/1709432662686?e=1718841600&v=beta&t=ZdPu1FpBXZz4Tnx36J3gchtm3kvvmHj1rr7YKMKzeW8)
 <h1 align="center">Hi there 👋, I'm Adeel Qazi</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 <img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSVtS3OcIM1tc3mq6vaDr2sNQnTa-IvD2KQ&usqp=CAU" />
